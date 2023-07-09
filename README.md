@@ -1,24 +1,3 @@
-<p align="center">
-    <a href="https://bombenprodukt.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/faustbrian/assets/main/logo-text.svg" width="128" alt="BombenProdukt Logo" />
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/faustbrian/blade-icons-skeleton/actions">
-        <img src="https://badge.sh/github/check-runs/BombenProdukt/blade-icons-skeleton" alt="Checks" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-skeleton">
-        <img src="https://badge.sh/packagist/downloads/BombenProdukt/blade-icons-skeleton" alt="Downloads" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-skeleton">
-        <img src="https://badge.sh/packagist/version/BombenProdukt/blade-icons-skeleton" alt="Version" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-skeleton">
-        <img src="https://badge.sh/packagist/license/BombenProdukt/blade-icons-skeleton" alt="License" />
-    </a>
-</p>
-
 ## About package_title
 
 This project was created by, and is maintained by [Brian Faust](https://github.com/faustbrian), and is a package to to easily make use of package_title with Laravel Blade Icons. Be sure to browse through the [changelog](CHANGELOG.md), [code of conduct](.github/CODE_OF_CONDUCT.md), [contribution guidelines](.github/CONTRIBUTING.md), [license](LICENSE), and [security policy](.github/SECURITY.md).

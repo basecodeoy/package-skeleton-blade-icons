@@ -17,7 +17,7 @@
             "role": "Developer"
         }
     ],
-    "homepage": "https://github.com/BombenProdukt/package_slug",
+    "homepage": "https://github.com/faustbrian/package_slug",
     "require": {
         "php": "^8.2",
         "illuminate/contracts": "^10.0",
